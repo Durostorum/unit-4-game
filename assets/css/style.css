@@ -1,0 +1,47 @@
+body {
+    background-image: url("../images/restaurant1.jpeg");
+    color: antiquewhite;
+}
+.characters, #available-enemies, #defender, #PlayerOne {
+    display: inline-flex;
+    padding-top: 0.5%;
+    text-align: center;
+    background-color: red;
+    outline-color: black;
+    border-width: 3px;
+    outline-style: solid; 
+    border-color: black;
+    outline-width: 3px;
+    width: auto;
+    margin-right: 10%;
+    
+}
+.row {
+    width: 250px;
+}
+img {
+    padding-right:5%;
+}
+
+#bodyHeader {
+    color: antiquewhite;
+}
+.card {
+    
+    height: auto;
+}
+.card-header, .card-footer {
+    padding: 0px;
+    text-align: center;
+}
+
+.card-img-top {
+    max-height: 100px;
+    max-width: 100px;
+    padding-left: -10px;
+}
+
+
+.btn-danger {
+    width: 86px;
+}
